@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "pump_utm_z30n",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32630" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 698462.007780001615174, 5711124.928647781722248 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 698722.68645527784247, 5711103.574984004721045 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ 698466.860014894045889, 5710962.579028901644051 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ 698580.326853714883327, 5710562.683519852347672 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ 698737.351667884737253, 5710593.474508182145655 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ 698876.763138634967618, 5710437.465799007564783 ] } },
+{ "type": "Feature", "properties": { "id": 8 }, "geometry": { "type": "Point", "coordinates": [ 698489.350477862404659, 5710434.924072503112257 ] } },
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "Point", "coordinates": [ 698477.374838083982468, 5710846.794199294410646 ] } },
+{ "type": "Feature", "properties": { "id": 10 }, "geometry": { "type": "Point", "coordinates": [ 698804.383139442303218, 5711127.893100466579199 ] } },
+{ "type": "Feature", "properties": { "id": 11 }, "geometry": { "type": "Point", "coordinates": [ 698682.618326816824265, 5710795.312914429232478 ] } },
+{ "type": "Feature", "properties": { "id": 12 }, "geometry": { "type": "Point", "coordinates": [ 698898.012569463346153, 5710665.918842261657119 ] } },
+{ "type": "Feature", "properties": { "id": 13 }, "geometry": { "type": "Point", "coordinates": [ 699033.207143185194582, 5710695.103992193937302 ] } }
+]
+}
