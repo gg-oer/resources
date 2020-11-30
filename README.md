@@ -7,7 +7,7 @@ We provide some spatial data which used in the materials. You can get the data f
 |Chapter|Name|Type|Source|Lisence|Downloard|
 |:---|:---|:---:|:---|:---|:---:|
 |1|スノーコレラマップ|Points / GeoJSON|※Original|CC BY-SA 4.0|[get]()|
-|5|プレート境界|Line / GeoJSON||CC BY-SA 4.0|[get]()|
+|5|プレート境界|Line / GeoJSON|[USGS Plate Boundaries KMZ File](https://www.usgs.gov/media/files/plate-boundaries-kmz-file)|CC BY-SA 4.0|[get]()|
 |5|2010-19のM6以上の地震|Points / GeoJSON|[USGS Search Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/)|CC BY-SA 4.0|[get]()|
 |5|火山の分布|Points / GeoJSON|[DATA.GOV Global Volcano Locations Database](https://www.ngdc.noaa.gov/hazel/view/hazards/volcano/loc-data)|CC BY-SA 4.0|[get]()|
 |5|世界の活断層|Raster tiles|[Global Active Faults](https://github.com/cossatot/gem-global-active-faults) ©GEM-GAF　CC BY-SA 4.0|CC BY-SA 4.0|[get]()|
@@ -25,4 +25,4 @@ We provide some spatial data which used in the materials. You can get the data f
 ||![]()||||[get]()|
 ||![]()||||[get]()|
 
-※ I created only spatial data. Original data is printed map. 
+※ I created only spatial data. Original data is a printed map or images. 
