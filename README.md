@@ -10,7 +10,7 @@ We provide some spatial data which used in the materials. You can get the data f
 |5|プレート境界|Line / GeoJSON|USGS|CC BY-SA 4.0|[get]()|
 |5|地震の分布|Points / CSV|Original|CC BY-SA 4.0|[get]()|
 |5|火山の分布|Points / CSV|Original||[get]()|
-|5|世界の活断層|Line / GeoJSON|||[get]()|
+|5|世界の活断層|Raster tiles|[Global Active Faults](https://github.com/cossatot/gem-global-active-faults) ©GEM-GAF　CC BY-SA 4.0|CC BY-SA 4.0|[get]()|
 |5|大規模地震|Points / CSV|Original|CC BY-SA 4.0|[get]()|
 |5|火山地形|Points / CSV|Original|CC BY-SA 4.0|[get]()|
 |6|世界の山地 / Mountains|Points / CSV||CC BY-SA 4.0|[get](#)|
